@@ -6,6 +6,7 @@ export function Home() {
         <Row>
           <Col>
           <h1>Home</h1>
+          <h2>Home</h2>
           <Button as="a" variant="primary">
               Button as link
             </Button>
